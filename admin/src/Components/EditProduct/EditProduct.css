@@ -1,0 +1,12 @@
+.listproduct-edit-btn {
+  padding: 0.3rem 0.6rem;
+  background-color: #f92a17; /* Green color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.listproduct-edit-btn:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
